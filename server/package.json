@@ -1,0 +1,14 @@
+{
+  "name": "docker_cat_facts",
+  "version": "1.0.0",
+  "description": "Docker Cat Facts",
+  "author": "Stephen Ayala",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.88.0"
+  }
+}
